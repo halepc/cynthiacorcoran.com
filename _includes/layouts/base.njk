@@ -45,8 +45,7 @@
 			<h1><a href="/" class="home-link">{{ metadata.title }}</a></h1>
 
 			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
-			{#- Commented out for now #}
-			{#-
+			{% if collections.all | eleventyNavigation | length > 1 %}      
 			<nav>
 				<h2 class="visually-hidden">Top level navigation menu</h2>
 				<ul class="nav">
@@ -55,7 +54,7 @@
 				{%- endfor %}
 				</ul>
 			</nav>
-      #}
+			{% endif %}
 		</header>
 
 		<main id="main">
