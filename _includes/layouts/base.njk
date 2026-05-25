@@ -42,7 +42,7 @@
 		<a href="#main" id="skip-link" class="visually-hidden">Skip to main content</a>
 
 		<header>
-			<h1><a href="/" class="home-link">{{ metadata.title }}</a></h1>
+			<a href="/" class="home-link">{{ metadata.title }}</a>
 
 			{#- Read more about `eleventy-navigation` at https://www.11ty.dev/docs/plugins/navigation/ #}
 			{% if collections.all | eleventyNavigation | length > 1 %}      
