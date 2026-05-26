@@ -4,4 +4,4 @@ This repository houses the files used to build [cynthiacorcoran.com](https://cyn
 
 ### LICENSE
 
-Cynthia Corcoran reserves all rights to content created by her, as noted in the [`content/LICENSE`](https://github.com/halepc/cynthiacorcoran.com/blob/main/content/LICENSE) file. All other files are licensed under the MIT license found in this directory.
+Cynthia Corcoran reserves all rights to files in the `content` directory, unless otherwise noted in the [`content/LICENSE` file](https://github.com/halepc/cynthiacorcoran.com/blob/main/content/LICENSE). All other files are licensed under [the MIT license](https://github.com/halepc/cynthiacorcoran.com/blob/main/LICENSE) found in this directory.
