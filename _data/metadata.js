@@ -5,7 +5,7 @@ export default {
 	description: "Queer Author of Science Fantasy and Memoir",
 	author: {
 		name: "Cynthia Corcoran",
-		email: "youremailaddress@example.com",
+		email: "info@cynthiacorcoran.com",
 		url: "https://cynthiacorcoran.com/"
 	}
 }
