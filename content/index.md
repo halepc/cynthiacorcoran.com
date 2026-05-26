@@ -16,4 +16,4 @@ Uncommon: an Anthology of Art and Writing by Queer Religious School Alumni (2026
 
 Curated by Beckett Fox and Oisín Rowe."
 
-Preorder [here](https://gameoverbooks.com/store/p/xkdh2ggvm7si7cbt7fof80fbrg4k1y)
+Preorder [here](https://gameoverbooks.com/store/p/xkdh2ggvm7si7cbt7fof80fbrg4k1y).
