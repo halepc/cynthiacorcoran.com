@@ -1,3 +1,7 @@
+All files except for those found in the `content` directory are licensed under
+the following MIT License. For files in the `content` directory, refer to
+`content/LICENSE`.
+
 MIT License
 
 Copyright (c) 2017–2024 Zach Leatherman @zachleat
